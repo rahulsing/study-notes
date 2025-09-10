@@ -1,0 +1,12 @@
+public_data_project:
+  target: dev
+  outputs:
+    dev:
+      type: athena
+      s3_staging_dir: s3://your-s3-bkt/dbt/
+      region_name: us-west-2
+      database: AwsDataCatalog
+      schema: public_data
+      work_group: primary
+      threads: 4
+      poll_interval: 2
