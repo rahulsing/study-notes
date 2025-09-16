@@ -1,4 +1,4 @@
-# DBT Tutorial and Athena Demo
+# Part 1, Learnig : DBT Tutorial and Steps for Athena 
 
 ## Learning DBT
 
@@ -27,7 +27,7 @@ This guide covers:
 
 ---
 
-# Part 2: TPC-DS Customer Address Demo
+# Part 2, Demo: TPC-DS Customer Address Demo
 
 This is the **simplest possible DBT implementation** designed to demonstrate a few key DBT capabilities with Amazon Athena. It uses publicly available TPC-DS customer address data to showcase:
 
